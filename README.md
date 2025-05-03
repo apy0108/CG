@@ -1,2 +1,2 @@
 # CG
- pa 
+cg pract
